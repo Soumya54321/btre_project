@@ -1,0 +1,6 @@
+//Virtual env
+source ./venv/bin/activate
+
+//start server
+python manage.py runserver
+
